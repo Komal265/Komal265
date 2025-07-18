@@ -3,7 +3,9 @@
 ## 👩‍💻 About Me
 
 🎓 I'm a Computer Engineering student passionate about **Machine Learning**, **Web Development**, and solving real-world problems using tech.
+
 🚀 Currently exploring **modern web development** and AI-powered applications.
+
 💡 I love learning new tools, building cool projects, and collaborating with the tech community.
 
 
