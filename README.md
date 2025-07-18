@@ -16,7 +16,7 @@ I'm a Computer Engineering student interested in Machine Learning, Web Developme
 
 ## 📫 Contact
 - Email: *komalsalunkhe891@gmail.com*
-- LinkedIn: **
+- LinkedIn: *https://www.linkedin.com/in/komal-salunkhe26*
 
 
 
