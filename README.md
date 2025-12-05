@@ -25,10 +25,14 @@
 
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
-<p align="center">
-<a href="https://www.linkedin.com/in/komal-salunkhe26/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin"></a>
-<a href="komalsalunkhe891@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-blue?style=flat-square&logo=gmail"></a>
-</p>
+p align="left">
+  <a href="https://www.linkedin.com/in/komal-salunkhe26/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" />
+  </a>
+
+  <a href="komalsalunkhe891@gmail.com">
+    <img src="https://img.icons8.com/?size=512&id=12580&format=png" width="40" />
+  </a>
 
 
 
