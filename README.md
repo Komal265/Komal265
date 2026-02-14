@@ -13,8 +13,9 @@
 ## 🛠 Skills
  
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,js,html,css,fastapi,,tensorflow,git,github,numpy,pandas" />
+  <img src="https://skillicons.dev/icons?i=python,js,html,css,fastapi,tensorflow,sklearn,git,github" />
 </p>
+
 
 
 
