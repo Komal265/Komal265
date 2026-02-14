@@ -15,21 +15,15 @@
 <p align="left">
 
 <!-- Programming Languages -->
-<img src="https://skillicons.dev/icons?i=python,js,html,css" />
-
-<br><br>
+<img src="https://skillicons.dev/icons?i=python,js,html,css" /
 
 <!-- Backend & Frameworks -->
-<img src="https://skillicons.dev/icons?i=fastapi,nodejs,express" />
-
-<br><br>
+<img src="https://skillicons.dev/icons?i=fastapi" />
 
 <!-- AI / ML -->
 <img src="https://skillicons.dev/icons?i=tensorflow" />
 <img src="https://img.shields.io/badge/Scikit--Learn-orange?style=for-the-badge" />
 <img src="https://img.shields.io/badge/XGBoost-red?style=for-the-badge" />
-
-<br><br>
 
 <!-- Data & Tools -->
 <img src="https://skillicons.dev/icons?i=git,github,vscode" />
