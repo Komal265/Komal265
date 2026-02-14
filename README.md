@@ -2,11 +2,11 @@
 
 ## 👩‍💻 About Me
 
-🎓 I'm a Computer Engineering student passionate about **Machine Learning**, **Web Development**, and solving real-world problems using tech.
+🎓 Computer Engineering student with a strong interest in Artificial Intelligence/Machine Learning and Full-Stack Web Development.
 
-🌱 Currently working on modern JavaScript, interactive web apps, and machine learning models using Scikit-learn & TensorFlow.
+🧠 I enjoy building data-driven systems and understanding how intelligent models can solve practical problems.
 
-💡 I love learning new tools, building cool projects, and collaborating with the tech communityy.
+⚙️ Currently working on backend development, developing APIs and integrating ML models into scalable web applications.
 
 
 
