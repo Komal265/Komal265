@@ -6,7 +6,7 @@
 
 🌱 Currently working on modern JavaScript, interactive web apps, and machine learning models using Scikit-learn & TensorFlow.
 
-💡 I love learning new tools, building cool projects, and collaborating with the tech community.
+💡 I love learning new tools, building cool projects, and collaborating with the tech communityy.
 
 
 
