@@ -13,7 +13,7 @@
 ## 🛠 Skills
  
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,js,html,css,fastapisklearn,git,github" />
+  <img src="https://skillicons.dev/icons?i=python,js,html,css,fastapi,sklearn,git,github" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="48"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="48"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" height="48"/>
