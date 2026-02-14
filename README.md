@@ -13,24 +13,9 @@
 ## 🛠 Skills
  
 <p align="left">
-
-<!-- Programming Languages -->
-<img src="https://skillicons.dev/icons?i=python,js,html,css" /
-
-<!-- Backend & Frameworks -->
-<img src="https://skillicons.dev/icons?i=fastapi" />
-
-<!-- AI / ML -->
-<img src="https://skillicons.dev/icons?i=tensorflow" />
-<img src="https://img.shields.io/badge/Scikit--Learn-orange?style=for-the-badge" />
-<img src="https://img.shields.io/badge/XGBoost-red?style=for-the-badge" />
-
-<!-- Data & Tools -->
-<img src="https://skillicons.dev/icons?i=git,github,vscode" />
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge" />
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge" />
-
+  <img src="https://skillicons.dev/icons?i=python,js,html,css,fastapi,,tensorflow,git,github,numpy,pandas" />
 </p>
+
 
 
 
