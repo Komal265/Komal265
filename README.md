@@ -13,7 +13,7 @@
 ## 🛠 Skills
  
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,js,html,css,fastapi,git,github" />
+  <img src="https://skillicons.dev/icons?i=python,js,html,css,git,github" />
  
 </p>
 
