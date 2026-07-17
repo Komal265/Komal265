@@ -14,7 +14,6 @@
  
 <p align="left">
   <img src="https://skillicons.dev/icons?i=python,js,react,tailwindcss,html,css,git,github" />
-  <img src="https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=white" height="48" alt="GSAP" />
 </p>
 
 
